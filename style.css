@@ -1,0 +1,13 @@
+body {
+    min-height: 100vh;
+    min-width: 100vw;
+    background-color: #12181f;
+    color: white;
+    /* Add a league background later on */
+}
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
+}
